@@ -7,6 +7,13 @@
   padding-bottom: 96px;
 }
 
+
+.container {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+
 .menu {
   font-size: 18px;
   line-height: 21.13px;
@@ -266,9 +273,4 @@
   flex-direction: column;
   list-style: none;
   text-align: center;
-}
-
-.container {
-  padding-left: 24px;
-  padding-right: 24px;
 }
