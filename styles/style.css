@@ -179,6 +179,10 @@
   width: 334px;
 }
 
+.no-underline-href {
+  text-decoration: none;
+}
+
 .card {
   padding: 51px 40px 48px 40px;
   color: white;
@@ -208,6 +212,7 @@
   font-weight: 700;
   line-height: 26.4px;
   z-index: 1;
+  text-decoration: underline;
 }
 
 .cards__text {
